@@ -1,14 +1,14 @@
 # MSWinProdKeyRecovery
 VB Script for recovering an OEM Manufacturers MS Windows Vista-Win11 Product Key 
 
-//////////////////////////////////////////
+///////////
 How to use:
 1. Download/clone this repo - or simply copy the VBS file "WinProductKey-reveal.vbs" - Save to a location which you can find easily such as the Windows Desktop.
 2. Double Click the file
 3. A new window will appear revealing your original Windows Product Key.
 4. enjoy.
 
-//////////////////////////////////////////
+//////////
 Note:
 
 This script pulls the key from the local Windows Registry.
