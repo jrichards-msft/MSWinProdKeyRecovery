@@ -1,5 +1,5 @@
 # MSWinProdKeyRecovery
-VB Script for recovering an OEM Manufacturers MS Windows Vista-Win11 Product Key 
+VB Script for recovering an OEM Manufacturers MS Windows Windows7-Win11 Product Key 
 
 <h4>Usage:</h4><br>
 
