@@ -13,8 +13,8 @@ VB Script for recovering an OEM Manufacturers MS Windows Windows7-Win11 Product 
 Note:<br>
 //////////<br>
 <br>
-This script pulls the key from the local Windows Registry.
-Older laptops/PC's which do not have UEFI Bios's cannot store the Windows Product Key in the bios location. 
+This script pulls the key from the local Windows Registry. <br>
+Older laptops/PC's which do not have UEFI Bios's, cannot store the Windows Product Key in the reserved bios location.<br> 
 To recover a Windows Product key from a modern BIOS based system, use the following command from an **Admin** Command prompt or Admin Powershell session: <br>
 <br>
 <pre>
